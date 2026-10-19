@@ -1,0 +1,11 @@
+body {
+            max-width: 750px;
+            margin: auto;
+            font-family: 'Times New Roman', Times, serif;
+            background-color: rgb(37, 18, 18);
+            color: rgb(252, 205, 166);
+        }
+
+h1{
+    font-family: serif;
+}
